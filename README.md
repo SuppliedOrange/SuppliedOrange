@@ -34,6 +34,7 @@
               tinker with hardware without shorting something
             </li>
           </ul>
+          <p>&nbsp</p>
         </td>
         <td>
           <figure class="image">
@@ -51,11 +52,14 @@
       <tr>
         <td>
           <!-- <img src="https://github-readme-stats.vercel.app/api?username=suppliedorange&theme=transparent&show_icons=true"> -->
-          <h3>stuff ive got on here</h3>
-          <blockquote>a <a href="https://github.com/SuppliedOrange/VALORANT-Instalocker">valorant instalocker</a> if you REALLY love your favourite duelist and need them 24/7</blockquote>
+          <h3>stuff youll find on my github</h3>
+          <blockquote>a <a href="https://github.com/SuppliedOrange/VALORANT-Instalocker">valorant instalocker</a> if you only play that one duelist you love</blockquote>
           <blockquote>pixel art that i made out of <a href="https://github.com/SuppliedOrange/obcb-contraptions">checkboxes on a website</a> (<a href="https://youtu.be/hTxArh6tBHY?si=nphmr2JWVQ9FJcSh&t=2068">theo reacted!</a>)</blockquote>
           <blockquote>a <a href="https://github.com/SuppliedOrange/digital-cheatsheet">cheat tool</a> i made in a few hours for online tests. undetectable most of the time.</blockquote>
-          <blockquote>and a <a href="https://github.com/SuppliedOrange/komorebi-loading">loader</a> and <a href="https://github.com/SuppliedOrange/InactivityMonitor">inactivity lock</a> for komorebi, an <a href="https://github.com/SuppliedOrange/Chatroulette-Custom-Selfie">pfp replacement extension</a> for an omegle x tinder clone and some other stuff for accessibility and utility</blockquote> 
+          <blockquote>a <a href="https://github.com/SuppliedOrange/komorebi-loading">loader</a> and <a href="https://github.com/SuppliedOrange/InactivityMonitor">inactivity lock</a> for komorebi </blockquote>
+          <blockquote>a <a href="https://github.com/SuppliedOrange/Chatroulette-Custom-Selfie">pfp replacement extension</a> for an omegle x tinder clone</blockquote>
+          <blockquote>and some <a href="https://github.com/SuppliedOrange?tab=repositories">other stuff</a> for accessibility and utility</blockquote>
+          &nbsp
         </td>
         <td>
           <h3>
