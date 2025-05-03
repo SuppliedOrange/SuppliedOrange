@@ -31,7 +31,7 @@
               have more money
             </li>
             <li>
-              tinker with hardware without shorting something
+              get better at reverse engineering
             </li>
           </ul>
           <p>&nbsp</p>
