@@ -38,7 +38,7 @@
         </td>
         <td>
           <figure class="image">
-            <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTB6NXlmYWVpaTlxYWZzd2hwbGp4YmNpeWFyMnk3OGM2OGUxNmdhNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eElgvISNmerUfWrDFv/giphy.gif"  sizes="100vw" width="480">
+            <img src="https://i.pinimg.com/originals/a2/19/42/a21942c7c30ae881f1cefefcc8cdae63.gif"  sizes="100vw" width="450">
           </figure>
         </td>
       </tr>
