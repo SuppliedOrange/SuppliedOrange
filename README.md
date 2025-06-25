@@ -37,7 +37,7 @@
                             get better at reverse engineering
                         </li>
                     </ul>
-                    <p>&nbsp</p>
+                    <p>&nbsp;</p>
                 </td>
             </tr>
         </tbody>
