@@ -56,7 +56,7 @@
                     <blockquote>a <a href="https://github.com/SuppliedOrange/komorebi-loading">loader</a> and <a href="https://github.com/SuppliedOrange/InactivityMonitor">inactivity lock</a> for komorebi </blockquote>
                     <blockquote>a <a href="https://github.com/SuppliedOrange/Chatroulette-Custom-Selfie">pfp replacement extension</a> for an omegle x tinder clone</blockquote>
                     <blockquote>and some <a href="https://github.com/SuppliedOrange?tab=repositories">other stuff</a> for accessibility and utility</blockquote>
-                    &nbsp
+                    <p>&nbsp;</p>
                 </td>
             </tr>
             <tr>
