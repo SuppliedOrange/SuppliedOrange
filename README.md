@@ -4,7 +4,7 @@
             <tr>
                 <td>
                     <div align="center">
-                        <img src="https://i.pinimg.com/originals/a2/19/42/a21942c7c30ae881f1cefefcc8cdae63.gif" width="240">
+                        <img src="https://i.pinimg.com/originals/a2/19/42/a21942c7c30ae881f1cefefcc8cdae63.gif" alt="A GIF of a Hatsune Miku figurine dancing in stop-motion animation" width="240">
                     </div>
                     <h3>
                         im a
