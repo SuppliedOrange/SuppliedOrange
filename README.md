@@ -70,7 +70,7 @@
               <a href="https://discord.com/users/735322421862727760">Discord</a> [ @lternatively ]
             </li>
             <li>
-              <a href="https://www.instagram.com/kronsuki/">Instagram</a> [ @kronsuki ]
+              <a href="https://www.instagram.com/zlavng/">Instagram</a> [ @zlavng ]
             </li>
           </ul>
           <p>
